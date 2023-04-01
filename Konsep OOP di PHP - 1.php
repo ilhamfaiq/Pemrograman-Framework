@@ -139,3 +139,4 @@ echo "Model : " . $beli_cdr->getModel() . "<br/>";
 echo "Mohon maaf anda tidak mendapatkan Discount <br/>";
 echo "Total Harga : Rp." . $beli_cdr->getPrice() . ",-<br/>Harga diatas sudah
 termasuk ppn sebesar 15% dan tidak mendapatkan discount";
+?>
